@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I am Dharitri Maharana</h1>
+<h1 align="center">Hii 🕊️, I am Dharitri Maharana</h1>
 <h3 align="center">A passionate full stack developer building web applications for 1.5 above years.</h3>
 
 <h3 align="left">Connect with me:</h3>
