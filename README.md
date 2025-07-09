@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🕊️, I am Dharitri Maharana</h1>
-<h3 align="center">A passionate full stack developer building web applications for 1.5 above years.</h3>
+<h3 align="center">A passionate full stack developer building web applications for above 2 years.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
