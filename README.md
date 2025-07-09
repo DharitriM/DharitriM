@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🕊️, I am Dharitri Maharana</h1>
-<h3 align="center">A passionate full stack developer building web applications for above 2 years.</h3>
+<h3 align="center">A passionate MERN stack developer with over 2 years of experience in building responsive and scalable web applications, from front-end interfaces to back-end services. Dedicated to writing clean, maintainable code and continuously improving user experiences through modern web technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
