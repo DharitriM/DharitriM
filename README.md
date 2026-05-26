@@ -2,7 +2,7 @@
   <img src="https://github.com/DharitriM/DharitriM/blob/main/img.png" alt="Hello, I'm Dharitri Maharana — a Full-Stack Developer specializing in the MERN stack" />
 </p>
 
-<h3 align="center">A passionate MERN stack developer with over 2 years of experience in building responsive and scalable web applications, from front-end interfaces to back-end services. Dedicated to writing clean, maintainable code and continuously improving user experiences through modern web technologies.</h3>
+<h3 align="center">A passionate MERN stack developer with over 3 years of experience in building responsive and scalable web applications, from front-end interfaces to back-end services. Dedicated to writing clean, maintainable code and continuously improving user experiences through modern web technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
